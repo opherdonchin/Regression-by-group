@@ -1,0 +1,21 @@
+,rank,loo,d_loo,dse
+landmarks group 1 homogeneous using eyeHandDiff,0,-3255.794839949214,0.0,0.0
+landmarks group 1 intercept using eyeHandDiff,1,-3256.9455958025333,1.1507558533195095,4.309576244722543
+landmarks group 2 intercept using eyeHandDiff,0,-2981.4021113758895,0.0,0.0
+landmarks group 2 homogeneous using eyeHandDiff,1,-2981.41603532232,0.013923946430793421,3.7760705473769747
+landmarks group 3 homogeneous using eyeHandDiff,0,-3273.594682977381,0.0,0.0
+landmarks group 3 intercept using eyeHandDiff,1,-3275.2264942864176,1.6318113090362942,4.256706854048313
+no landmarks group 1 intercept using eyeHandDiff,0,-1429.9679963277733,0.0,0.0
+no landmarks group 1 homogeneous using eyeHandDiff,1,-1431.810142084366,1.8421457565926005,1.9308272567712357
+no landmarks group 2 intercept using eyeHandDiff,0,,,
+no landmarks group 2 homogeneous using eyeHandDiff,1,,,
+landmarks group 1 homogeneous using eyes,0,-8718.930705491679,0.0,0.0
+landmarks group 1 intercept using eyes,1,-8722.197478822345,3.2667733306684,47.46590171376052
+landmarks group 2 intercept using eyes,0,-8735.124063332052,0.0,0.0
+landmarks group 2 homogeneous using eyes,1,-8743.438121887284,8.314058555234482,51.22284666464588
+landmarks group 3 intercept using eyes,0,-14754.039090000466,0.0,0.0
+landmarks group 3 homogeneous using eyes,1,-14980.149881877434,226.11079187696913,130.46138372337913
+no landmarks group 1 homogeneous using eyes,0,-7385.094890263977,0.0,0.0
+no landmarks group 1 intercept using eyes,1,-7574.046619460683,188.9517291967069,124.75188591391216
+no landmarks group 2 homogeneous using eyes,0,-7215.759608723118,0.0,0.0
+no landmarks group 2 intercept using eyes,1,-7263.856328410561,48.09671968744422,60.47272307452342
